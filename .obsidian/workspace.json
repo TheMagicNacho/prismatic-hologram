@@ -1,0 +1,246 @@
+{
+  "main": {
+    "id": "45a756c579eda2f9",
+    "type": "split",
+    "children": [
+      {
+        "id": "a632035b136ce559",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "255429c6bae3622c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Map/The Capital City/Townships/The Inner City.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "afad013c03011215",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "155841c49734a6ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Map/The Capital City/Structures/Festival Entrance.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "62168ea54a2f26cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Map/The Capital City/Structures/Festival Square.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "284beed88b1f2f86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Map/The Capital City/Structures/Festival Tent of Mirrors.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d8e6646549c8d6bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Map/The Capital City/Structures/Festival Tent of Desire.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dc0e321078cdd4e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Map/The Capital City/Structures/Festival Tent of Wine.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "513430b5c7ff4c86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9098e30d93376c10",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "595ea78993f0e762",
+    "type": "split",
+    "children": [
+      {
+        "id": "19f6e7139fe2568f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "658bcd2b8898c45d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "79e83a77f9c6b0a9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#p",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9a86f4412fbfb981",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "84ab3e8be3ef194d",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f895ea3943cae6c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "07d989c974162472",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1bbbde800e77bea8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c434044b4b731bd1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ab5eca02f1eaac63",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "513430b5c7ff4c86",
+  "lastOpenFiles": [
+    "Map/The Capital City/Structures/Festival Tent of Jewlery.md",
+    "Map/The Capital City/The Capital City.md",
+    "Map/The Capital City/Structures/Festival Tent of Wine.md",
+    "README.md",
+    "Map/The Capital City/Routes/farm & orchard.md",
+    "Map/The Capital City/Structures/The Kings Orchards.md",
+    "Map/The Capital City/Structures/Festival Arena.md",
+    "Map/The Capital City/Structures/Festival Tent of Oddities.md",
+    "Map/The Capital City/Structures/Festival Tent of Desire.md",
+    "Map/The Capital City/Structures/Festival Tent of Mirrors.md"
+  ]
+}
